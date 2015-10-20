@@ -4,7 +4,7 @@
 
 Patrik Wikström & Brenda Moon
 
-	[![Binder](http://mybinder.org/badge.svg)](https://github.com/qut-dmrc/AoIR-IR16-web-scraping-workshop)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/qut-dmrc/AoIR-IR16-web-scraping-workshop)
 
 ### Notebooks
 

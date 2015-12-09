@@ -22,7 +22,7 @@ Patrik Wikström & Brenda Moon
 
 This workshop uses Python 3 and the python modules listed below.
 
-One of the easiest ways to install Python and packages that are relevant for web scraping is to use Anaconda developed by ConAnuum AnalyAcs. Do note however, that Python is available in two versions, "2.7" and "3.4". We will be using Python 3.4, so make sure you download the correct one.
+One of the easiest ways to install Python and packages that are relevant for web scraping is to use Anaconda developed by Continuum Analytics. Do note however, that Python is available in two versions, "2.7" and "3.4". We will be using Python 3.4, so make sure you download the correct one.
 
 Anaconda can be downloaded from https://www.continuum.io/downloads
 

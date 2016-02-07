@@ -4,7 +4,7 @@
 
 Patrik Wikström & Brenda Moon
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/qut-dmrc/web-scraping-intro--workshop)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/qut-dmrc/web-scraping-intro-workshop)
 
 ### Notebooks
 

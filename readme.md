@@ -1,22 +1,22 @@
-# AoIR IR16 pre-conference workshop - Web Scraping
+# Introduction to Web Scraping using Python
 
-## QUT DMRC - 2015
+## QUT Digital Media Research Centre
 
 Patrik Wikström & Brenda Moon
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/qut-dmrc/AoIR-IR16-web-scraping-workshop)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/qut-dmrc/web-scraping-intro--workshop)
 
 ### Notebooks
 
 * [Introduction](index.ipynb)
-* Step 1. [Extract album title from a single item on a single page](metacritic-AOIR-step1.ipynb)
-* Step 2. [Extract all album titles on a single page](metacritic-AOIR-step2.ipynb)
-* Step 3. [Extract all review data from a single page](metacritic-AOIR-step3.ipynb)
-* Step 4. [Structure the data extraction as a function](metacritic-AOIR-step4.ipynb)
-* Step 5. [Store the data in a dataframe and save to disk](metacritic-AOIR-step5.ipynb)
-* Step 6. [Restructure the code for clarity](metacritic-AOIR-step6.ipynb)
-* Step 7. [Plotting, tiny stat analysis and improved I/O](metacritic-AOIR-step7.ipynb)
-* Final. [Support for multiple pages](metacritic-AOIR-final.ipynb)
+* Step 1. [Extract album title from a single item on a single page](web-scraping-intro-step1.ipynb)
+* Step 2. [Extract all album titles on a single page](web-scraping-intro-step2.ipynb)
+* Step 3. [Extract all review data from a single page](web-scraping-intro-step3.ipynb)
+* Step 4. [Structure the data extraction as a function](web-scraping-intro-step4.ipynb)
+* Step 5. [Store the data in a dataframe and save to disk](web-scraping-intro-step5.ipynb)
+* Step 6. [Restructure the code for clarity](web-scraping-intro-step6.ipynb)
+* Step 7. [Plotting, tiny stat analysis and improved I/O](web-scraping-intro-step7.ipynb)
+* Final. [Support for multiple pages](web-scraping-intro-final.ipynb)
 
 ### Installation
 
